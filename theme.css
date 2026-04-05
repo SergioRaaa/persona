@@ -110,8 +110,7 @@ a { color: inherit; }
   width: 100%;
   height: auto;
   border-radius: 10px;
-  border: 1px solid var(--border-soft);
-  background: var(--surface);
+  display: block;
 }
 .video-frame {
   position: relative;
