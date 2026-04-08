@@ -16,10 +16,13 @@
   }
 
   var trailByFile = {
-    'dmitriy-pokrovskiy.html': [
+    'touch.html': [
       { label: 'Серия мини-фильмов к выставке в “Русском музее”', href: './seriya-mini-filmov-russkiy-muzey.html' }
     ],
-    'insideout-3-0.html': [
+    'insideout2.html': [
+      { label: 'Серия мини-фильмов к выставке в “Русском музее”', href: './seriya-mini-filmov-russkiy-muzey.html' }
+    ],
+    'sinpulsy.html': [
       { label: 'Серия мини-фильмов к выставке в “Русском музее”', href: './seriya-mini-filmov-russkiy-muzey.html' }
     ],
     'splanirovannye-sluchaynosti.html': [

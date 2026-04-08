@@ -70,6 +70,8 @@ a { color: inherit; }
 .page-icon--emoji { width: 78px; height: 78px; margin-top: -42px; font-size: 78px; line-height: 1; }
 
 .page-content { padding-top: 10px; }
+.page--mini-film .page-content { padding-top: 22px; }
+.page--mini-film .video-block { margin-top: 18px; }
 .page-content > * { margin-top: 4px; }
 .page-content > .section-heading,
 .page-content > .sub-heading,
