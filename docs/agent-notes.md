@@ -1,4 +1,4 @@
-# Agent Notes — Sergey Rakhaimov Documentary Filmmaker Portfolio
+# Agent Notes — Sergey Rakhamimov Documentary Filmmaker Portfolio
 
 > Working notes for codebase changes. Updated after each significant modification.
 
